@@ -1,4 +1,4 @@
-import { board_model } from '../model/board_models.js'
+import { board_model } from '../model/board_model.js'
 
 let board_controller = {};
 
